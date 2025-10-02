@@ -51,7 +51,7 @@ dental-classification/
 **Due to GitHub's file size limit (25MB), the trained model is hosted externally:**
 
 ### Download Link:
-📦 **[Download dental_classifier_balanced.pth](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+📦 **[Download dental_classifier_balanced.pth](https://drive.google.com/file/d/1lR0T5pDCh5xH8MBh5uzYZSJyLYSShrrq/view?usp=sharing)**
 
 **File Size:** ~XMB  
 **SHA-256:** `(optional: add checksum here)`
